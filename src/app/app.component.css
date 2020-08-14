@@ -1,0 +1,20 @@
+.nav-link {
+  font-size: large;
+}
+
+
+
+ .highlighted {
+text-decoration: none;
+ background-color:#007bff;
+ color:white;
+ cursor: pointer;
+ border :1px solid #007bff;
+ padding-right: 10px;
+ padding-left: 10px;
+ padding-top :6px;
+ padding-bottom :6px;
+ border-radius: 4px;
+ display: block;
+ 
+}
